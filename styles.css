@@ -96,22 +96,28 @@ border-bottom-left-radius: 1rem;
     max-width: 650px;
     display: block;
     margin: auto;
+    padding-top: 3rem;
 }
 .img-head
 {
 color:var(--secondary-color);
 text-align: center;
+
 }
 
-.section .head-normal-section
+.section .head-normal-section  
 {
     text-align: center;
-    padding-top: 3rem;
+    padding-top: 1rem;
+}
+.section
+{
+    padding:2rem 0rem;
 }
 .section-grey
 {
     background-color: var(--secondary-color);
-    padding: 1rem 0rem;
+    padding: 2rem 0rem;
 }
 .section-grey .head-normal-section
 {
@@ -145,9 +151,49 @@ text-align: center;
 .footer-header
 {
     color: white;
+    font-weight: bold;
 }
 .footer-div
 {
    text-align: center; 
    
+}
+.img-div .brandname-head
+{
+    color: var(--primary-color);
+    background-color: white;
+}
+.project-heading
+{
+padding-top: 2rem;
+}
+.my-projects-span
+{
+color: var(--primary-color);
+}
+.play
+{
+    
+    display: block;
+    text-decoration: none;
+    padding: 1rem;
+    background-color: var(--primary-color);
+    max-width: 150px;
+    border-radius:0.5rem;
+    margin-bottom: 1rem;
+}
+
+.view
+{
+    
+    display: block;
+    text-decoration: none;
+    padding: 1rem;
+    background-color: var(--primary-color);
+    max-width: 150px;
+    border-radius:0.5rem;
+}
+.pad-top
+{
+    padding-top: 2rem;
 }
