@@ -3,7 +3,7 @@
 :root
 {
     --primary-color:#7C3AED;
-    --secondary-color:#E5E7EB;
+    --secondary-color:#D1D5DB;
 }
 .span-class
 {
@@ -37,6 +37,7 @@ hr
     color: white;
     padding:0.5rem 1rem 0.5rem 1rem;
     border-radius: 0.3rem;
+    margin-right: 0.5rem;
 }
 .secondary-link
 {
@@ -125,6 +126,7 @@ text-align: center;
     text-align: center;
     padding-top: 1rem;   
 }
+/*footer*/
 .footer-ul
 {
     list-style: none;
@@ -158,6 +160,7 @@ text-align: center;
    text-align: center; 
    
 }
+/*footer*/
 .img-div .brandname-head
 {
     color: var(--primary-color);
@@ -196,4 +199,16 @@ color: var(--primary-color);
 .pad-top
 {
     padding-top: 2rem;
+}
+/***************Blog styling*******************************/
+.blog-head
+{
+    
+    text-align: center;
+    font-weight: bold;
+    
+}
+.blog-head-span
+{
+    color: var(--primary-color);
 }
