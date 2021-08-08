@@ -4,6 +4,7 @@
 {
     --primary-color:#7C3AED;
     --secondary-color:#D1D5DB;
+    --third-color:#A7F3D0;
 }
 .span-class
 {
@@ -206,9 +207,86 @@ color: var(--primary-color);
     
     text-align: center;
     font-weight: bold;
+    padding-top:2rem ;
+    text-decoration: underline;
+}
+.blog-head-span 
+{
+    color: var(--primary-color);    
+}
+
+.ar-rehman-image
+{
+    height: 620px;
+    margin: auto;
+    display: block;
+    border-radius: 0.7rem;
     
 }
-.blog-head-span
+.ar-rehman-small
 {
-    color: var(--primary-color);
+    text-align: right;
+    display: block;
+    padding-right: 13rem;
+    padding-top: 2rem;
+}
+.my-favourite
+{
+    padding-top: 2rem;
+
+}
+.my-favourite .first
+{
+    margin-right: 0.18rem;
+}
+.my-favourite .second
+{
+    margin-right: 0.18rem;
+}
+.my-favourite .head-youtube-links
+{
+    text-align: center;
+    padding-top: 2rem;
+}
+.section-grey .para
+{
+   /* font-family: sans-serif; */
+   font-size:large;
+}
+.section .para
+{
+   /* font-family: sans-serif; */
+   font-size: large;
+
+}
+.ar-rehman-links
+{
+    text-decoration: none;
+    color:var(--primary-color);
+    font-weight: bold;
+}
+.arrehman-footer
+{
+    background-color: black;
+}
+.footer-small
+{
+    color: white;
+    text-align: right;
+ display: block;  
+}
+.github
+{
+    width:50px;
+    border-radius: 3rem;
+}
+.youtube
+{
+    width:50px;
+    border-radius: 3rem;
+}
+.linkedin
+{
+    width:50px;
+    border-radius: 3rem;
 }
