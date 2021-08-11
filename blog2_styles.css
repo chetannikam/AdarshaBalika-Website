@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+body
+{
+    font-family: 'Quicksand', sans-serif;
+}
+h1
+{
+    font-size:xx-large ;
+}
+h2
+{
+    font-size: x-large;
+}
+.footer
+{
+background-color: black;
+}
+.footer .footer-header
+{
+    color:white;
+    text-align: center;
+    padding-top:1rem;
+}
+.footer .footer-div
+{
+    margin: auto;
+    max-width: 270px;
+
+}
+.footer-links
+{
+   
+    color: white;
+
+    
+}
+.blog-img
+{
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    padding-top: 2rem;
+}
+.blog-header
+{
+    text-align: center;
+    text-shadow:white;
+}
+.footer-ul
+{
+    list-style: none;
+    padding-inline-start: 0px;
+    
+}
+.footer-li
+{
+    padding-left:1rem ;
+    padding-right:1rem;
+    
+    display: inline;
+}
+.social-media
+{
+max-width: 50px;
+border-radius: 1.5rem;
+}
+.container
+{
+padding-left:2rem;
+padding-right: 2rem;
+padding-top: 2rem;
+}
+.container-center
+{
+max-width: 500px;
+margin: auto;
+}
+.book-img
+{
+    margin: auto;
+    display: block;
+    border: 1px solid white;
+    border-radius: 0.2rem;
+}
+.para-blog
+{
+    font-size: large;
+}
