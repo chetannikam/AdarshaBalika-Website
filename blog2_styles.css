@@ -36,7 +36,8 @@ background-color: black;
 }
 .blog-img
 {
-    max-width: 600px;
+    width: 400px;
+    max-width: 80%;
     margin: auto;
     display: block;
     padding-top: 2rem;
