@@ -24,14 +24,15 @@ background-color: black;
 .footer .footer-div
 {
     margin: auto;
-    max-width: 270px;
+    max-width: 240px;
 
 }
-.footer-links
+.footer-div .footer-links
 {
    
     color: white;
-
+   padding: 0rem 0.5rem;
+    
     
 }
 .blog-img
@@ -55,9 +56,7 @@ background-color: black;
 }
 .footer-li
 {
-    padding-left:1rem ;
-    padding-right:1rem;
-    
+
     display: inline;
 }
 .social-media
